@@ -389,6 +389,7 @@ footer {
   grid-row: 2;
   grid-column: 1;
   grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
   display: grid;
 
 }
