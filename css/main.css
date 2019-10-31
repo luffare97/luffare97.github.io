@@ -599,7 +599,7 @@ footer {
   border-radius: 20px;
   width: 200px;
   height: 200px;
-  border-color: black;
+  border: solid 1px;
 
 }
 
